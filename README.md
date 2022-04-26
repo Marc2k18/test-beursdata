@@ -7,4 +7,4 @@ nb: voor 2 indexes zoals boven rekent de site 2 calls (20 api calls/dag gratis v
 "Daily Usage
 You used
 2 out of 20 API requests
-10% of your daily limit
+10% of your daily limit"
